@@ -1,0 +1,5 @@
+Create a branch off the master branch.
+Create a file in the sub-branch and write your profile detail as required form the HNG task dashboard.
+Add and commit the change made in the bracnhed file.
+Switch back to the mastee branch and merge the sub-branch into the master.
+Push to github
